@@ -1,0 +1,16 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\number_.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\number_.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\number_.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\number_.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\number_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\ref\number_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\bin\Debug\net5.0\number_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\ref\number_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.genruntimeconfig.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\number_\number_\obj\Debug\net5.0\number_.csproj.AssemblyReference.cache

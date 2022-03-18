@@ -1,0 +1,15 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\character_.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\character_.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\character_.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\character_.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\character_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\ref\character_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\bin\Debug\net5.0\character_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\ref\character_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\character_\character_\obj\Debug\net5.0\character_.genruntimeconfig.cache

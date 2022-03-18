@@ -1,0 +1,16 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\Print_.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\Print_.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\Print_.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\Print_.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\Print_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\ref\Print_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\bin\Debug\net5.0\Print_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.csproj.AssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\ref\Print_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Print_\Print_\obj\Debug\net5.0\Print_.genruntimeconfig.cache

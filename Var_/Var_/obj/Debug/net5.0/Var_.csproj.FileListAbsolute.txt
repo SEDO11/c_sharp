@@ -1,0 +1,15 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\Var_.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\Var_.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\Var_.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\Var_.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\Var_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\ref\Var_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\bin\Debug\net5.0\Var_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\ref\Var_.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\Var_\Var_\obj\Debug\net5.0\Var_.genruntimeconfig.cache
