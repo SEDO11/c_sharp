@@ -1,0 +1,16 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\Exam2525.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\Exam2525.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\Exam2525.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\Exam2525.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\Exam2525.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\ref\Exam2525.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\bin\Debug\net5.0\Exam2525.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.csproj.AssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\ref\Exam2525.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\Exam2525\Exam2525\obj\Debug\net5.0\Exam2525.genruntimeconfig.cache

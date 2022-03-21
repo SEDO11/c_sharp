@@ -1,0 +1,16 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\by_star.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\by_star.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\by_star.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\by_star.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\by_star.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\ref\by_star.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\bin\Debug\net5.0\by_star.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.csproj.AssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\ref\by_star.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\by_star\by_star\obj\Debug\net5.0\by_star.genruntimeconfig.cache
