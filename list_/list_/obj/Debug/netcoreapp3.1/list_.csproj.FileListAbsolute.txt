@@ -1,0 +1,13 @@
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\bin\Debug\netcoreapp3.1\list_.exe
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\bin\Debug\netcoreapp3.1\list_.deps.json
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\bin\Debug\netcoreapp3.1\list_.runtimeconfig.json
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\bin\Debug\netcoreapp3.1\list_.runtimeconfig.dev.json
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\bin\Debug\netcoreapp3.1\list_.dll
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\bin\Debug\netcoreapp3.1\list_.pdb
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.csprojAssemblyReference.cache
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.AssemblyInfoInputs.cache
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.AssemblyInfo.cs
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.csproj.CoreCompileInputs.cache
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.dll
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.pdb
+C:\Users\OHSEHOON\Desktop\git\c_sharp\list_\list_\obj\Debug\netcoreapp3.1\list_.genruntimeconfig.cache
