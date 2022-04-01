@@ -1,0 +1,15 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\Exam8370.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\Exam8370.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\Exam8370.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\Exam8370.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\Exam8370.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\ref\Exam8370.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\bin\Debug\net5.0\Exam8370.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\ref\Exam8370.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam8370\Exam8370\obj\Debug\net5.0\Exam8370.genruntimeconfig.cache

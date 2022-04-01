@@ -1,0 +1,15 @@
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\Exam7891.exe
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\Exam7891.deps.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\Exam7891.runtimeconfig.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\Exam7891.runtimeconfig.dev.json
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\Exam7891.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\ref\Exam7891.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\bin\Debug\net5.0\Exam7891.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.AssemblyInfoInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.AssemblyInfo.cs
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\ref\Exam7891.dll
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.pdb
+C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\baekjoon\basic\Exam7891\Exam7891\obj\Debug\net5.0\Exam7891.genruntimeconfig.cache
