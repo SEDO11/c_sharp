@@ -31,16 +31,16 @@ namespace random_number
         {
             this.components = new System.ComponentModel.Container();
             this.btn = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             this.printLabel = new System.Windows.Forms.Label();
             this.remainNumber = new System.Windows.Forms.Label();
             this.textInput = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btn_len = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.canvasPictureBox = new System.Windows.Forms.PictureBox();
             this.timer = new System.Windows.Forms.Timer(this.components);
-            ((System.ComponentModel.ISupportInitialize)(this.canvasPictureBox)).BeginInit();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn
@@ -49,7 +49,7 @@ namespace random_number
             this.btn.AutoSize = true;
             this.btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.btn.Font = new System.Drawing.Font("굴림", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.btn.Location = new System.Drawing.Point(250, 390);
+            this.btn.Location = new System.Drawing.Point(266, 533);
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(169, 85);
             this.btn.TabIndex = 1;
@@ -57,18 +57,6 @@ namespace random_number
             this.btn.UseMnemonic = false;
             this.btn.UseVisualStyleBackColor = false;
             this.btn.Click += new System.EventHandler(this.btn_Click);
-            // 
-            // label1
-            // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label1.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label1.Location = new System.Drawing.Point(210, 524);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(250, 100);
-            this.label1.TabIndex = 2;
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // printLabel
             // 
@@ -88,8 +76,8 @@ namespace random_number
             // 
             this.remainNumber.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.remainNumber.AutoSize = true;
-            this.remainNumber.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.remainNumber.Location = new System.Drawing.Point(514, 601);
+            this.remainNumber.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.remainNumber.Location = new System.Drawing.Point(524, 602);
             this.remainNumber.Name = "remainNumber";
             this.remainNumber.Size = new System.Drawing.Size(65, 12);
             this.remainNumber.TabIndex = 5;
@@ -98,7 +86,8 @@ namespace random_number
             // 
             // textInput
             // 
-            this.textInput.Location = new System.Drawing.Point(587, 524);
+            this.textInput.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.textInput.Location = new System.Drawing.Point(602, 531);
             this.textInput.Name = "textInput";
             this.textInput.Size = new System.Drawing.Size(70, 21);
             this.textInput.TabIndex = 6;
@@ -106,8 +95,9 @@ namespace random_number
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(496, 533);
+            this.label2.Location = new System.Drawing.Point(506, 534);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(85, 12);
             this.label2.TabIndex = 7;
@@ -115,8 +105,9 @@ namespace random_number
             // 
             // btn_len
             // 
+            this.btn_len.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn_len.BackColor = System.Drawing.Color.Transparent;
-            this.btn_len.Location = new System.Drawing.Point(587, 566);
+            this.btn_len.Location = new System.Drawing.Point(597, 567);
             this.btn_len.Name = "btn_len";
             this.btn_len.Size = new System.Drawing.Size(75, 23);
             this.btn_len.TabIndex = 8;
@@ -124,21 +115,35 @@ namespace random_number
             this.btn_len.UseVisualStyleBackColor = false;
             this.btn_len.Click += new System.EventHandler(this.btn_len_Click);
             // 
-            // canvasPictureBox
-            // 
-            this.canvasPictureBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.canvasPictureBox.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.canvasPictureBox.Location = new System.Drawing.Point(0, 0);
-            this.canvasPictureBox.Margin = new System.Windows.Forms.Padding(0);
-            this.canvasPictureBox.Name = "canvasPictureBox";
-            this.canvasPictureBox.Size = new System.Drawing.Size(684, 661);
-            this.canvasPictureBox.TabIndex = 9;
-            this.canvasPictureBox.TabStop = false;
-            // 
             // timer
             // 
             this.timer.Enabled = true;
             this.timer.Interval = 10;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pictureBox1.Image = global::random_number.Properties.Resources.back;
+            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(684, 661);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.White;
+            this.label1.Font = new System.Drawing.Font("굴림", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label1.Location = new System.Drawing.Point(298, 284);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(95, 96);
+            this.label1.TabIndex = 10;
+            this.label1.Text = "0";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
@@ -147,17 +152,17 @@ namespace random_number
             this.BackColor = System.Drawing.Color.Green;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(684, 661);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_len);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textInput);
             this.Controls.Add(this.remainNumber);
             this.Controls.Add(this.printLabel);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.btn);
-            this.Controls.Add(this.canvasPictureBox);
+            this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.Text = "숫자 랜덤 뽑기 프로그램";
-            ((System.ComponentModel.ISupportInitialize)(this.canvasPictureBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -165,15 +170,15 @@ namespace random_number
 
         #endregion
         private System.Windows.Forms.Button btn;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label printLabel;
         private System.Windows.Forms.Label remainNumber;
         private System.Windows.Forms.TextBox textInput;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btn_len;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
-        private System.Windows.Forms.PictureBox canvasPictureBox;
         private System.Windows.Forms.Timer timer;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label1;
     }
 }
 

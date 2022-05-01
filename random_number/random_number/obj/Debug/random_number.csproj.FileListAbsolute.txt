@@ -8,3 +8,13 @@ C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\random_number\random_number\ob
 C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\random_number\random_number\obj\Debug\random_number.csproj.CoreCompileInputs.cache
 C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\random_number\random_number\obj\Debug\random_number.exe
 C:\Users\donha\OneDrive\바탕 화면\git\c_sharp\random_number\random_number\obj\Debug\random_number.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\bin\Debug\random_number.exe.config
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\bin\Debug\random_number.exe
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\bin\Debug\random_number.pdb
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.csproj.AssemblyReference.cache
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.Form1.resources
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.Properties.Resources.resources
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.csproj.GenerateResource.cache
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.csproj.CoreCompileInputs.cache
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.exe
+C:\Users\donha\OneDrive\바탕 화면\c_sharp-main\random_number\random_number\obj\Debug\random_number.pdb

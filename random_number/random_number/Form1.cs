@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Windows.Forms;
 using System.Media;
+using System.Runtime.InteropServices;
 
 namespace random_number
 {
@@ -25,22 +26,17 @@ namespace random_number
         {
             InitializeComponent();
             list.Add(1);
-            label1.Text = "1~n까지 랜덤 출력\n실행 방법\n스페이스바 or 버튼 클릭";
 
             printLabel.BackColor = Color.Transparent;
-            printLabel.Parent = canvasPictureBox;
+            printLabel.Parent = pictureBox1;
             label1.BackColor = Color.Transparent;
-            label1.Parent = canvasPictureBox;
+            label1.Parent = pictureBox1;
             label2.BackColor = Color.Transparent;
-            label2.Parent = canvasPictureBox;
+            label2.Parent = pictureBox1;
             remainNumber.BackColor = Color.Transparent;
-            remainNumber.Parent = canvasPictureBox;
+            remainNumber.Parent = pictureBox1;
 
-            #region 무빙 이벤트를 설정한다.
-            this.canvasPictureBox.Paint += canvasPictureBox_Paint; 
-            this.timer.Tick += timer_Tick;
-            #endregion
-
+            start();
         }
 
         public void CreateList(int l) // 지연
@@ -78,12 +74,24 @@ namespace random_number
             return;
         }
 
-        private void btn_Click(object sender, EventArgs e) // 버튼 클릭
+        #region 음원 반복 재생
+        [DllImport("winmm.dll", SetLastError = true)] 
+        private static extern int waveOutSetVolume(IntPtr device, uint volume);
+
+        private void start()
         {
-            playSimpleSound();
+            waveOutSetVolume(IntPtr.Zero, (uint)0x88888888);
+            SoundPlayer simpleSound = new SoundPlayer(@"c:\music\ost.wav");
+            simpleSound.PlayLooping(); // 반복재생
+        }
+        #endregion
+
+        #region 버튼 클릭
+        private void btn_Click(object sender, EventArgs e) 
+        {
             if (n < list.Count)
             {
-                printLabel.Text = "추첨 번호\n" + list[0];
+                label1.Text = "" + list[0];
                 remainNumber.Text = "남은 개수: " + (list.Count - 1);
                 list.RemoveAt(0);
             }
@@ -94,19 +102,15 @@ namespace random_number
                 Close();
             }
         }
+        #endregion
 
-        private void playSimpleSound() // 소리 재생
-        {
-            SoundPlayer simpleSound = new SoundPlayer(@"c:\Windows\Media\chimes.wav");
-            simpleSound.Play();
-        }
+        //private void playSimpleSound() // 소리 재생
+        //{
+        //    SoundPlayer simpleSound = new SoundPlayer(@"c:\Windows\Media\chimes.wav");
+        //    simpleSound.Play();
+        //}
 
         private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
         {
 
         }
@@ -122,56 +126,5 @@ namespace random_number
 
         }
 
-        // 배경 움직임
-        private void canvasPictureBox_Paint(object sender, PaintEventArgs e) 
-        { 
-            int width = this.canvasPictureBox.ClientSize.Width; 
-            SetBackgroundImage(e.Graphics, this.gradientStart, this.gradientStart + width); 
-            this.gradientStart += this.delta; 
-            if (this.gradientStart >= width) 
-            { 
-                this.gradientStart = 0; 
-            } 
-            
-            using (Font font = new Font("Times New Roman", 32, FontStyle.Bold)) 
-            {
-                using (StringFormat stringFormat = new StringFormat()) 
-                {
-                    stringFormat.Alignment = StringAlignment.Center; 
-                    stringFormat.LineAlignment = StringAlignment.Center; 
-                    e.Graphics.DrawString(
-                        "",
-                        font, 
-                        Brushes.Black, 
-                        this.canvasPictureBox.ClientSize.Width / 2, 
-                        this.canvasPictureBox.ClientSize.Height / 2, 
-                        stringFormat); 
-                } 
-            } 
-        }
-
-        private void timer_Tick(object sender, EventArgs e)
-        {
-            this.canvasPictureBox.Refresh();
-        }
-
-        private void SetBackgroundImage(Graphics graphics, float minimumX, float maximumX) 
-        { 
-            using (LinearGradientBrush brush = new LinearGradientBrush(new PointF(minimumX, 0), 
-                new PointF(maximumX, 0), Color.Green, Color.Green)) 
-            { 
-                brush.WrapMode = WrapMode.Tile; 
-                ColorBlend colorBlend = new ColorBlend(); 
-                colorBlend.Colors = new Color[] 
-                { Color.Green, Color.DarkGray, Color.Green }; 
-                colorBlend.Positions = new float[] { 0, 0.8f, 1}; 
-                brush.InterpolationColors = colorBlend; 
-                graphics.FillRectangle(brush, this.canvasPictureBox.ClientRectangle); 
-            } 
-        }
-
-        private void timer1_Tick(object sender, EventArgs e)
-        {
-        }
     }
 }

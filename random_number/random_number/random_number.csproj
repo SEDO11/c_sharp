@@ -84,5 +84,13 @@
   <ItemGroup>
     <None Include="Resources\Loop Loading GIF by Derek Fitzpatrick - Find &amp; Share on GIPHY.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\ost.mp3" />
+    <Content Include="Resources\ost.wav" />
+    <Content Include="Resources\y2mate.com - Hawaii FiveO.mp3" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
