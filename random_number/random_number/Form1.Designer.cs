@@ -40,6 +40,7 @@ namespace random_number
             this.timer = new System.Windows.Forms.Timer(this.components);
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.btn_music = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -47,7 +48,7 @@ namespace random_number
             // 
             this.btn.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.btn.AutoSize = true;
-            this.btn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.btn.BackColor = System.Drawing.Color.Silver;
             this.btn.Font = new System.Drawing.Font("굴림", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.btn.Location = new System.Drawing.Point(266, 533);
             this.btn.Name = "btn";
@@ -57,12 +58,16 @@ namespace random_number
             this.btn.UseMnemonic = false;
             this.btn.UseVisualStyleBackColor = false;
             this.btn.Click += new System.EventHandler(this.btn_Click);
+            this.btn.MouseDown += new System.Windows.Forms.MouseEventHandler(this.btn_MouseDown);
+            this.btn.MouseLeave += new System.EventHandler(this.btn_MouseLeave);
+            this.btn.MouseHover += new System.EventHandler(this.btn_MouseHover);
+            this.btn.MouseUp += new System.Windows.Forms.MouseEventHandler(this.btn_MouseUp);
             // 
             // printLabel
             // 
             this.printLabel.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.printLabel.AutoSize = true;
-            this.printLabel.BackColor = System.Drawing.Color.GreenYellow;
+            this.printLabel.BackColor = System.Drawing.Color.White;
             this.printLabel.Font = new System.Drawing.Font("굴림", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.printLabel.Location = new System.Drawing.Point(110, 61);
             this.printLabel.Name = "printLabel";
@@ -145,13 +150,26 @@ namespace random_number
             this.label1.Text = "0";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // btn_music
+            // 
+            this.btn_music.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btn_music.AutoSize = true;
+            this.btn_music.Location = new System.Drawing.Point(21, 595);
+            this.btn_music.Name = "btn_music";
+            this.btn_music.Size = new System.Drawing.Size(108, 23);
+            this.btn_music.TabIndex = 11;
+            this.btn_music.Text = "음악 재생";
+            this.btn_music.UseVisualStyleBackColor = true;
+            this.btn_music.Click += new System.EventHandler(this.btn_music_Click);
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.AutoSize = true;
-            this.BackColor = System.Drawing.Color.Green;
+            this.BackColor = System.Drawing.Color.White;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(684, 661);
+            this.Controls.Add(this.btn_music);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_len);
             this.Controls.Add(this.label2);
@@ -179,6 +197,7 @@ namespace random_number
         private System.Windows.Forms.Timer timer;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btn_music;
     }
 }
 
